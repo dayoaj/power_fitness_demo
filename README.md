@@ -1,16 +1,17 @@
-# flutter_application_bmi_calc
+# Power Fitness App
 
-A new Flutter project.
+A Fitness Application built with Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Clone Repository
 
-A few resources to get you started if this is your first Flutter project:
+`git clone <https://github.com/dayoaj/power_fitness_demo.git>`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Navigate to directory
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+`cd power_fitness_demo`
+
+### Run Application
+
+`flutter run`
